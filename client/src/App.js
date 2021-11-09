@@ -82,7 +82,7 @@ class App extends Component {
                 job={c.job}    
                 />
               );
-              })
+            })
           }
         </TableBody>
 
